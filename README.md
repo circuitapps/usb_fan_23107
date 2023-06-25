@@ -30,7 +30,7 @@ The circuit is an easy one to build and the diagram is provided below for your r
 
 Following screenshot also provides how each component looks as shown in the ***[Youtube video][9]***, which we think you will find useful while building your own version.
 
-![components list](./components.png)
+![components list](./components.PNG)
 
 Project Challenges
 ---
